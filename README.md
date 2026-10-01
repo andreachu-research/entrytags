@@ -32,18 +32,14 @@ python set exec "/path/to/python3", permanently
 
 ## Install from GitHub
 
-After uploading this folder as the root of a GitHub repository, replace
-`GITHUB-USER` below with the repository owner. Replace `entrytags` too if the
-repository has a different name.
-
 ```stata
-net install entrytags, from("https://raw.githubusercontent.com/GITHUB-USER/entrytags/main")
+net install entrytags, from("https://raw.githubusercontent.com/andreachu-research/entrytags/main")
 ```
 
 To reinstall or upgrade:
 
 ```stata
-net install entrytags, from("https://raw.githubusercontent.com/GITHUB-USER/entrytags/main") replace
+net install entrytags, from("https://raw.githubusercontent.com/andreachu-research/entrytags/main") replace
 discard
 ```
 
