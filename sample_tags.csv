@@ -1,4 +1,0 @@
-DocID,PublishedDate,Note1,Note2
-1,1-Jan-21,"Product=""Diamond""; Restriction=""Import and Re-Export"";","Product=Seafood; Restriction=""Import and Re-Export"";"
-2,3-Jan-21,"Service=""USD Transactions""; Restriction=""Prohibited""; Target=""Listed persons""; EffectiveDate=""Immediate"";",
-3,1-May-21,"Product=""Diamond""; Restriction=""Import and Re-Export""; EffectiveDate=""May 5, 2021"";","Product=Seafood; Restriction=""Import and Re-Export""; EffectiveDate=""Oct 5, 2021"";"
