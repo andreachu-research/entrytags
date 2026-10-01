@@ -1,0 +1,4 @@
+v 3
+d entrytags: Tagged-variable utilities for Stata
+d
+p entrytags Preview and transpose semicolon-delimited Key=Value tags

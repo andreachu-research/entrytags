@@ -1,0 +1,15 @@
+v 3
+d entrytags: Preview and transpose tagged variables in the active Stata dataset
+d
+d Two Stata commands backed by Python's standard library.
+d Version: 1.6.0
+d Distribution-Date: 01 October 2026
+d Requires: Stata 16 or newer with Python 3 configured
+d License: MIT
+d
+f tagpreview.ado
+f tagpreview.sthlp
+f taggenerate.ado
+f taggenerate.sthlp
+F transpose_tags.py
+e
